@@ -1,0 +1,56 @@
+p{
+    color: white;
+    font-size: 30px;
+    font-family: Century;
+}
+.general{
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: royalblue;
+}
+section{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.first{
+    width: 32%;
+    height: 250px;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second{
+    width: 32%;
+    height: 250px;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.third {
+    width: 32%;
+    height: 250px;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bottom{
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+    background-color: royalblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,53 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+p{
+    font-size: 25px;
+}
+.one{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Rubik Pixels', cursive;
+    background-color: peachpuff;
+}
+.two{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    background-color: peachpuff;
+}
+.three{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+    background-color: peachpuff;
+}
+.four{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Fjalla One', sans-serif;
+    background-color: peachpuff;
+}
+.five{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Indie Flower', cursive;
+    background-color: peachpuff;
+}

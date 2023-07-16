@@ -1,0 +1,75 @@
+.basic{
+    width: 100%;
+    height: 300px;
+    background-color: peachpuff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.redOne{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 2s;
+}
+.redTwo{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 2s;
+}
+.redThree{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 2s;
+}
+.redFour{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 2s;
+}
+.redFive{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 100px 50px;
+    transition: 2s;
+}
+.redSix{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 2s;
+}
+.redOne:hover{
+    background-color: gray;
+    border-radius: 50%;
+    transition: 2s;
+}
+.redTwo:hover {
+    background-color: gray;
+    border-radius: 50%;
+    transition: 2s;
+}
+.redThree:hover{
+    background-color: gray;
+    border-radius: 50%;
+    transition: 2s;
+}
+.redFour:hover{
+    background-color: gray;
+    border-radius: 50%;
+    transition: 2s;
+}
+.redFive:hover{
+    background-color: gray;
+    border-radius: 50%;
+    transition: 2s;
+}
+.redSix:hover{
+    background-color: gray;
+    border-radius: 50%;
+    transition: 2s;
+}
