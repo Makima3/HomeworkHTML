@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+       margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #7365cb;
+    font-size: 50px;
+    margin: 50px;
+}
+p{
+    font-family: "Century Gothic";
+    font-size: 20px;
+    margin: 30px 70px;
+}
+h1{
+    font-family: "Century Gothic";
+    font-size: 40px;
+    margin-top: 60px;
+}
+#coral{
+    width: 99vw;
+    height: 100vh;
+    background-color: lightcoral;
+    background-size: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#cyan{
+    width: 99vw;
+    height: 100vh;
+    background-color: #63f5f5;
+    background-size: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#green{
+    width: 99vw;
+    height: 100vh;
+    background-color: #b6f557;
+    background-size: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

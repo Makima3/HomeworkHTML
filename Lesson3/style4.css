@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: "JetBrains Mono Medium";
+    font-size: 40px;
+}
+p{
+    margin: 0 50px;
+}
+.half1{
+    width: 100vw;
+    height: 50vh;
+    background-color: #f57c48;
+    font-family: "JetBrains Mono Medium";
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.half2{
+    width: 100vw;
+    height: 50vh;
+    background-color: #062075;
+    font-family: "JetBrains Mono Medium";
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
