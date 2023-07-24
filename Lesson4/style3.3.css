@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+.general{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    width: 100vw;
+    height: 20vh;
+    background: #927D7D;
+}
+main{
+    display: flex;
+}
+.box1{
+    width: 20vw;
+    height: 60vh;
+    background: #817C7C;
+}
+.box2{
+display: flex;
+}
+.header1{
+    width: 60vw;
+    height: 15vh;
+    background: #CCBEBE;
+}
+.main1{
+    display: flex;
+
+}
+.block1{
+    width: 15vw;
+    height: 30vh;
+    background: #473434;
+}
+.block2{
+    width: 30vw;
+    height: 30vh;
+    background: #A74848;
+}
+.block3{
+    width: 15vw;
+    height: 30vh;
+    background: #925A5A;
+}
+.footer1{
+    width: 60vw;
+    height: 15vh;
+    background: #CF6262;
+}
+.box3{
+    width: 20vw;
+    height: 60vh;
+    background: #B7AEAE;
+}
+footer{
+    width: 100vw;
+    height: 20vh;
+    background: #BDBDBD;
+}

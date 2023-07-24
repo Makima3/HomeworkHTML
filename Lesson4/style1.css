@@ -1,0 +1,96 @@
+.imgsize{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 13vh;
+    padding: 10px 10px 10px 69px;
+}
+.main{
+    width: 500px;
+    height: 600px;
+    border: solid gray;
+}
+.forUser{
+    display: flex;
+    background-color: white;
+    flex-flow: column;
+    align-items: center ;
+    justify-content: center;
+    padding: 10px 80px;
+}
+.field1{
+    width: 80%;
+    height: 13%;
+    margin: 10px;
+    padding: 20px 10px 20px 30px;
+    text-overflow: ellipsis;
+    font-family: 'Open Sans', sans-serif;
+}
+#subbmit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-weight: 400;
+    height: 5%;
+    width: 93%;
+    background-color: #77A7FF ;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 10px;
+}
+#subbmit{
+    border: none;
+}
+p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: grey;
+    margin-top: 40px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+
+}
+.enter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: midnightblue;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.forgot{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: midnightblue;
+    margin: 30px;
+    padding: 5px 10px 30px 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.end{
+    margin-top: 10px;
+    width: 500px;
+    height: 100px;
+    border: solid;
+    border-color: grey;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: black;
+}
+.end2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: deepskyblue;
+}

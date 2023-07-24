@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+}
+.general{
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+header{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: #8D8484;
+}
+.main {
+    display: flex;
+    text-align: center;
+}
+.leftSide{
+    display: flex;
+    flex-direction: column;
+}
+.cont1{
+    width: 75vw;
+    height: 20vh;
+    background: #776969;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.cont2{
+    width: 75vw;
+    height: 20vh;
+    background: #643030;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.cont3{
+    width: 75vw;
+    height: 20vh;
+    background: #441818;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.rightSide{
+    display: flex;
+    flex-direction: column;
+}
+.spam1{
+    width: 25vw;
+    height: 30vh;
+    background: #937575;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.spam2{
+    width: 25vw;
+    height: 30vh;
+    background: #644C4C;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+footer{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: #BDBDBD;
+}

@@ -1,0 +1,36 @@
+header{
+    text-align: center;
+    font-size: 50px;
+}
+hr{
+    margin-top: -50px;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+}
+.firstPart{
+    display: flex;
+    justify-content: space-around
+}
+img{
+    width: 55vw;
+    height: 88vh;
+}
+.listComponents{
+    width: 23vw;
+    height: 80vh;
+    font-size: 40px;
+}
+.secondPart{
+    width: 93vw;
+    height: 123vh;
+    font-size: 40px;
+    background: #D9D9D94D;
+    margin-left: 83px;
+    text-align: left;
+
+}
