@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+}
+main{
+    width: 99vw;
+    height: 99vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Inter', sans-serif;
+}
+h4{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+img{
+    margin-top: 25px;
+}
+.blockOne{
+    width: 321px;
+    height: 491px;
+    border: 4px solid #554C4C;
+    background: rgba(217, 217, 217, 0.3);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.forBlockOne{
+    width: 100px;
+    height: 100px;
+    background: #FFFFFF;
+    border: 4px solid #554C4C;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -490px;
+    margin-left: 100px;
+}
+.blockTwo{
+    width: 321px;
+    height: 491px;
+    border: 4px solid #65856E;
+    background: rgba(217, 217, 217, 0.3);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.forBlockTwo{
+    width: 100px;
+    height: 100px;
+    background: #FFFFFF;
+    border: 4px solid #65856E;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -490px;
+    margin-left: 100px;
+}
+.blockThree{
+    width: 321px;
+    height: 491px;
+    border: 4px solid #554C4C;
+    background: rgba(217, 217, 217, 0.3);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.forBlockThree{
+    width: 100px;
+    height: 100px;
+    background: #FFFFFF;
+    border: 4px solid #554C4C;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -490px;
+    margin-left: 100px;
+}
