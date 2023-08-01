@@ -1,0 +1,21 @@
+@media screen and (max-width: 380px){
+    .a{
+    width: 100vw;
+    height: 20vh;
+}
+    .b{
+        width: 100vw;
+        height: 60vh;
+    }
+    .c{
+        width: 100vw;
+        height: 20vh;
+        margin-top: 5px;
+        margin-left: -1px;
+    }
+    section{
+
+        display: flex;
+        flex-direction: column;
+    }
+}

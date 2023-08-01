@@ -1,0 +1,70 @@
+main{
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    width: 99vw;
+    height: 31vh;
+    background: #d6f3aa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second{
+    display: flex;
+}
+.middle{
+    width: 75vw;
+    display: flex;
+    flex-direction: column;
+}
+.b{
+    width: 75vw;
+    height: 31vh;
+    background: #b3d77b;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blocks{
+    width: 75vw;
+    display: flex;
+    margin-top: 17px;
+}
+.c{
+    width: 25vw;
+    height: 31vh;
+    background: #91c067;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.d{
+    width: 25vw;
+    height: 31vh;
+    background: #8eb56c;
+    margin-left: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.e{
+    width: 24.4vw;
+    height: 31vh;
+    background: #749952;
+    margin-left: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.side{
+    width: 23.5vw;
+    height: 64.3vh ;
+    background: #648448;
+    margin-top: 16px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

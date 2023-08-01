@@ -1,0 +1,31 @@
+@media screen and (max-width: 380px){
+    .second{
+        display: flex;
+        flex-direction: column;
+    }
+    .first{
+        width: 100vw;
+        height: 20vh;
+    }
+    .b{
+        width: 100vw;
+        height: 40vh;
+    }
+    .c{
+        width: 32.4vw;
+        height: 20vh;
+    }
+    .d{
+        width: 32.4vw;
+        height: 20vh;
+    }
+    .e{
+        width: 32.4vw;
+        height: 20vh;
+    }
+    .side{
+        width: 100vw;
+        height: 20vh;
+        margin-left: -2px;
+    }
+}
